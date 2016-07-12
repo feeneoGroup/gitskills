@@ -1,3 +1,6 @@
 gitkills test
 
 now i must update the website for bug
+
+
+add scrapy jin10 data API
